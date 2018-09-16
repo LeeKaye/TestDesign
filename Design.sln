@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "Design", "Design\Design.jsproj", "{EF616837-EE19-436A-80E4-075BC668E786}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Android = Debug|Android
+		Debug|iOS = Debug|iOS
+		Debug|Windows-ARM = Debug|Windows-ARM
+		Debug|Windows-x64 = Debug|Windows-x64
+		Debug|Windows-x86 = Debug|Windows-x86
+		Release|Android = Release|Android
+		Release|iOS = Release|iOS
+		Release|Windows-ARM = Release|Windows-ARM
+		Release|Windows-x64 = Release|Windows-x64
+		Release|Windows-x86 = Release|Windows-x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF616837-EE19-436A-80E4-075BC668E786}.Debug|Android.ActiveCfg = Debug|Android
+		{EF616837-EE19-436A-80E4-075BC668E786}.Debug|Android.Build.0 = Debug|Android
+		{EF616837-EE19-436A-80E4-075BC668E786}.Debug|Android.Deploy.0 = Debug|Android
+		{EF616837-EE19-436A-80E4-075BC668E786}.Debug|iOS.ActiveCfg = Debug|iOS
+		{EF616837-EE19-436A-80E4-075BC668E786}.Debug|iOS.Build.0 = Debug|iOS
+		{EF616837-EE19-436A-80E4-075BC668E786}.Debug|iOS.Deploy.0 = Debug|iOS
+		{EF616837-EE19-436A-80E4-075BC668E786}.Debug|Windows-ARM.ActiveCfg = Debug|Windows-ARM
+		{EF616837-EE19-436A-80E4-075BC668E786}.Debug|Windows-ARM.Build.0 = Debug|Windows-ARM
+		{EF616837-EE19-436A-80E4-075BC668E786}.Debug|Windows-ARM.Deploy.0 = Debug|Windows-ARM
+		{EF616837-EE19-436A-80E4-075BC668E786}.Debug|Windows-x64.ActiveCfg = Debug|Windows-x64
+		{EF616837-EE19-436A-80E4-075BC668E786}.Debug|Windows-x64.Build.0 = Debug|Windows-x64
+		{EF616837-EE19-436A-80E4-075BC668E786}.Debug|Windows-x64.Deploy.0 = Debug|Windows-x64
+		{EF616837-EE19-436A-80E4-075BC668E786}.Debug|Windows-x86.ActiveCfg = Debug|Windows-x86
+		{EF616837-EE19-436A-80E4-075BC668E786}.Debug|Windows-x86.Build.0 = Debug|Windows-x86
+		{EF616837-EE19-436A-80E4-075BC668E786}.Debug|Windows-x86.Deploy.0 = Debug|Windows-x86
+		{EF616837-EE19-436A-80E4-075BC668E786}.Release|Android.ActiveCfg = Release|Android
+		{EF616837-EE19-436A-80E4-075BC668E786}.Release|Android.Build.0 = Release|Android
+		{EF616837-EE19-436A-80E4-075BC668E786}.Release|Android.Deploy.0 = Release|Android
+		{EF616837-EE19-436A-80E4-075BC668E786}.Release|iOS.ActiveCfg = Release|iOS
+		{EF616837-EE19-436A-80E4-075BC668E786}.Release|iOS.Build.0 = Release|iOS
+		{EF616837-EE19-436A-80E4-075BC668E786}.Release|iOS.Deploy.0 = Release|iOS
+		{EF616837-EE19-436A-80E4-075BC668E786}.Release|Windows-ARM.ActiveCfg = Release|Windows-ARM
+		{EF616837-EE19-436A-80E4-075BC668E786}.Release|Windows-ARM.Build.0 = Release|Windows-ARM
+		{EF616837-EE19-436A-80E4-075BC668E786}.Release|Windows-ARM.Deploy.0 = Release|Windows-ARM
+		{EF616837-EE19-436A-80E4-075BC668E786}.Release|Windows-x64.ActiveCfg = Release|Windows-x64
+		{EF616837-EE19-436A-80E4-075BC668E786}.Release|Windows-x64.Build.0 = Release|Windows-x64
+		{EF616837-EE19-436A-80E4-075BC668E786}.Release|Windows-x64.Deploy.0 = Release|Windows-x64
+		{EF616837-EE19-436A-80E4-075BC668E786}.Release|Windows-x86.ActiveCfg = Release|Windows-x86
+		{EF616837-EE19-436A-80E4-075BC668E786}.Release|Windows-x86.Build.0 = Release|Windows-x86
+		{EF616837-EE19-436A-80E4-075BC668E786}.Release|Windows-x86.Deploy.0 = Release|Windows-x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE774DB6-1551-4865-BE6B-C82CD6E1429D}
+	EndGlobalSection
+EndGlobal
